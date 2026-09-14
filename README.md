@@ -18,9 +18,7 @@ Certus operates alongside the media transformation path, observing media states 
 
 ## The Problem
 
-AI-processed speech can undergo multiple legitimate transformations such as noise cancellation, source separation, and accent translation.
-
-At the same time, ordinary channel effects and unauthorised manipulation can also alter media.
+AI-processed speech can undergo multiple legitimate transformations such as noise cancellation, source separation, accent translation etc. At the same time, ordinary channel effects and unauthorised manipulation can also alter media.
 
 Existing approaches address individual aspects of media trust, but this creates an emerging product question:
 
@@ -211,7 +209,7 @@ Certus provenance processing is therefore intended to operate **alongside the li
 
 ## Documentation
 
-The repository includes:
+Repository artefacts follow the **WXX naming convention**, where **W denotes Work Product** and the number indicates the artefact sequence.
 
 - Product Requirements Document (PRD)
 - Product Workflow
