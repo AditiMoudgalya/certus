@@ -171,6 +171,7 @@ n8n orchestrates the MVP workflow, while the underlying speech transformations, 
 
 ### Out of Scope
 
+- Integrity change localisation
 - Live PSTN / real-time telephony integration
 - Production speech-provider integrations
 - Production key management
