@@ -128,6 +128,9 @@ Certus separates speech processing, provenance processing, workflow orchestratio
 
 | Layer | Implementation |
 | --- | --- |
+| **Noise Cancellation** | DeepFilterNet3 |
+| **Source Separation** | SpeechBrain SepFormer WHAMR-16k |
+| **Accent Translation** | Seed-VC V2 |
 | **Processing & Verification** | Python + Flask |
 | **Workflow Orchestration** | n8n |
 | **Front End** | Figma Make |
@@ -135,7 +138,7 @@ Certus separates speech processing, provenance processing, workflow orchestratio
 | **Cryptographic Fingerprinting** | SHA-256 |
 | **Digital Signatures** | Ed25519 |
 
-n8n orchestrates the MVP workflow, while the underlying cryptographic processing and verification are performed by the Python implementation.
+n8n orchestrates the MVP workflow, while the underlying speech transformations, cryptographic processing, and verification are performed by the Python implementation.
 
 ---
 
