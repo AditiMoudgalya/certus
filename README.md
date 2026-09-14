@@ -16,6 +16,16 @@ Certus operates alongside the media transformation path, observing media states 
 
 ---
 
+### Product Ideation — SCAMPER
+
+Within the **SCAMPER framework**, Certus aligns with both **Combine** and **Adapt**.
+
+- **Combine** — Certus combines established cryptographic and provenance mechanisms, including SHA-256 fingerprinting, Merkle commitments and digital signatures, with AI speech-processing workflows to establish continuous provenance across successive transformations.
+
+- **Adapt** — Certus adapts these established cryptographic and provenance mechanisms to the context of AI-processed contact-centre speech, where media undergoes multiple authorised transformations.
+
+---
+
 ## The Problem
 
 AI-processed speech can undergo multiple legitimate transformations such as noise cancellation, source separation, accent translation etc. At the same time, ordinary channel effects and unauthorised manipulation can also alter media.
