@@ -214,9 +214,10 @@ Certus provenance processing is therefore intended to operate **alongside the li
 
 Repository artefacts follow the **WXX naming convention**, where **W denotes Work Product** and the number indicates the artefact sequence.
 
-- Product Requirements Document (PRD)
+- Press Release
 - Product Workflow
 - [Certus Figma Demo Portal](https://certus-provenance.figma.site/)
+- Product Requirements Document (PRD)
 
 ---
 
