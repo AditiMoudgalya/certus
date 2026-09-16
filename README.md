@@ -28,7 +28,7 @@ Within the **SCAMPER framework**, Certus aligns with both **Combine** and **Adap
 
 ## The Problem
 
-AI-processed speech can undergo multiple legitimate transformations such as noise cancellation, source separation, accent translation etc. At the same time, ordinary channel effects and unauthorised manipulation can also alter media.
+AI-processed speech can undergo multiple legitimate transformations such as noise cancellation, source separation, accent conversion etc. At the same time, ordinary channel effects and unauthorised manipulation can also alter media.
 
 Existing approaches address individual aspects of media trust, but this creates an emerging product question:
 
