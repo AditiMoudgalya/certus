@@ -2,7 +2,7 @@
 
 ## Project Context
 
-Certus was **designed and built by Aditi Moudgalya** (Aug 2026 - Sep 2026) as a personal project exploring **continuous media provenance for AI-processed speech pipelines**.
+Certus was **designed and built (Aug 2026 - Sep 2026) by Aditi Moudgalya**  as a personal project exploring **continuous media provenance for AI-processed speech pipelines**.
 
 The project examines how cryptographic provenance can be used to continuously record and verify speech integrity as media passes through multiple AI-based transformations.
 
