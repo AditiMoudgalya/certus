@@ -30,7 +30,14 @@ Within the **SCAMPER framework**, Certus aligns with both **Combine** and **Adap
 
 AI-processed speech can undergo multiple legitimate transformations such as noise cancellation, source separation, accent translation etc. At the same time, ordinary channel effects and unauthorised manipulation can also alter media.
 
-Existing approaches address individual aspects of media trust, but this creates an emerging product question:
+Existing approaches address individual aspects of media trust:
+
+- [**CallShield — Secure Caller Authentication over Real-Time Audio Channels**](https://www.researchgate.net/publication/399776636_CallShield_Secure_Caller_Authentication_over_Real-Time_Audio_Channels) — Caller authentication.
+- [**SpeechVerifier — Robust Acoustic Fingerprint against Tampering Attacks via Watermarking**](https://www.researchgate.net/publication/392315450_SpeechVerifier_Robust_Acoustic_Fingerprint_against_Tampering_Attacks_via_Watermarking) — Tamper verification.
+- [**MerkleSpeech — Public-Key Verifiable Chunk-Localised Speech Provenance via Perceptual Fingerprints and Merkle Commitments**](https://www.researchgate.net/publication/400704704_MerkleSpeech_Public-Key_Verifiable_Chunk-Localised_Speech_Provenance_via_Perceptual_Fingerprints_and_Merkle_Commitments) — Chunk-level speech provenance.
+
+
+This creates an emerging product question:
 
 > **How can the integrity and transformation history of AI-processed speech remain continuously verifiable across the speech pipeline?**
 
