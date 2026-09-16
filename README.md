@@ -28,7 +28,7 @@ Within the **SCAMPER framework**, Certus aligns with both **Combine** and **Adap
 
 ## The Problem
 
-AI-processed speech can undergo multiple legitimate transformations such as noise cancellation, source separation, accent conversion etc. At the same time, ordinary channel effects and unauthorised manipulation can also alter media.
+AI-processed speech can undergo multiple legitimate transformations such as noise cancellation, source separation, accent translation etc. At the same time, ordinary channel effects and unauthorised manipulation can also alter media.
 
 Existing approaches address individual aspects of media trust, but this creates an emerging product question:
 
@@ -75,8 +75,8 @@ The Noise-Cancelled audio undergoes Source Separation while Certus continues obs
 **5. Source Separation Provenance**  
 Certus verifies continuity with the preceding media state, validates the preceding provenance evidence, and creates the next signed transformation attestation.
 
-**6. Accent Conversion**  
-The resulting audio undergoes Accent Conversion to produce the final authorised transformed media.
+**6. Accent Translation**  
+The resulting audio undergoes Accent Translation to produce the final authorised transformed media.
 
 **7. Accent Translation Provenance**  
 Certus again verifies media continuity and preceding provenance evidence before creating the final signed transformation attestation.
