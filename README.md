@@ -75,8 +75,8 @@ The Noise-Cancelled audio undergoes Source Separation while Certus continues obs
 **5. Source Separation Provenance**  
 Certus verifies continuity with the preceding media state, validates the preceding provenance evidence, and creates the next signed transformation attestation.
 
-**6. Accent Translation**  
-The resulting audio undergoes Accent Translation to produce the final authorised transformed media.
+**6. Accent Conversion**  
+The resulting audio undergoes Accent Conversion to produce the final authorised transformed media.
 
 **7. Accent Translation Provenance**  
 Certus again verifies media continuity and preceding provenance evidence before creating the final signed transformation attestation.
